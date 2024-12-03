@@ -1,4 +1,4 @@
-<div style="background-image: url('https://github.com/MohamaddMortada/MohamaddMortada/readme-img.webp'); background-size: cover; text-align: center; padding: 50px; color: white;">
+<div style="background-image: url('https://t3.ftcdn.net/jpg/03/48/39/74/360_F_348397404_wXuf22GUPNAh67htBZZnaDSx3Bj92yep.jpg'); background-size: cover; text-align: center; padding: 50px; color: white;">
 
 <h1 align="center">Hi 👋, I'm Mohamad Mortada</h1>
 <h3 align="center">A passionate full stack developer from Lebanon</h3>
