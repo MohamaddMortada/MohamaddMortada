@@ -1,4 +1,4 @@
-<img align="center" src="https://t3.ftcdn.net/jpg/03/48/39/74/360_F_348397404_wXuf22GUPNAh67htBZZnaDSx3Bj92yep.jpg" alt="mohamaddmortada" width="100%"/>
+<img align="center" src="https://t3.ftcdn.net/jpg/03/48/39/74/360_F_348397404_wXuf22GUPNAh67htBZZnaDSx3Bj92yep.jpg" alt="mohamaddmortada" width="1000px"/>
 
 <h1 align="center">Hi 👋, I'm Mohamad Mortada</h1>
 <h3 align="center">A passionate full stack developer from Lebanon</h3>
